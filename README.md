@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">My name is Abisam Hazim and I'm a IT Student, from Indonesia</p>
+<p align="left">My name is Abisam Hazim and I'm a teenager TI student, from Indonesia</p>
 
 ###
 
